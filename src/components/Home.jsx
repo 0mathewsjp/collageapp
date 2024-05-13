@@ -17,7 +17,7 @@ const Home = () => {
                                             <div class="card-body">
                                                 <h5 class="card-title">SREE BUDDHA COLLAGE OF ENGINEERING</h5>
                                                 <p class="card-text">Sree Buddha College of Engineering, located in Pattoor, is a beacon of academic excellence, innovation, and holistic development. Our institution is dedicated to nurturing future leaders in engineering, fostering a culture of creativity, critical thinking, and ethical values. With state-of-the-art facilities, experienced faculty, and a vibrant student community, we strive to empower our students to excel in their chosen fields and contribute positively to society. Welcome to a journey of knowledge, growth, and endless possibilities at Sree Buddha College of Engineering..</p>
-                                                <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                                
                                             </div>
                                         </div>
                                     </div>
